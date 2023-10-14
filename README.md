@@ -1,2 +1,2 @@
 # Tutor-Matchmaking
-Project for Make a Machine Learning Model (Learning Tutor Matchmaking)
+Project for Machine Learning Model (Learning Tutor Matchmaking)
